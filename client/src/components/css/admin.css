@@ -2,4 +2,10 @@
     .sidebar .nav-item .nav-link {
         padding: 0.5rem 1rem;
     }
+
+    .sidebar .nav-item .nav-link i {
+        font-size: 1rem;
+        width: 30px;
+        text-align: center;
+    }
 }

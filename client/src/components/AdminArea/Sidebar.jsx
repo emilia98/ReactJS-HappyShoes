@@ -60,6 +60,12 @@ class Sidebar extends Component {
           <div className="sidebar-heading">
             Interface
           </div>
+
+          <li className="nav-item">
+            <a className="nav-link" href="/admin/brands">
+              <i class="fas fa-tag"></i>
+              <span>Brands</span></a>
+          </li>
           
           <li className="nav-item">
             <a className="nav-link" href="/admin/shoes">
@@ -72,6 +78,8 @@ class Sidebar extends Component {
             <i class="fas fa-chevron-circle-left"></i>
               <span>Back to user area</span></a>
           </li>
+
+          
         
         
           
